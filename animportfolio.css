@@ -1,0 +1,39 @@
+h1 {
+  font: 60px "Trebuchet MS";
+  color: white;
+  text-align: center;
+  background-color: DarkSlateBlue;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+h2 {
+  font: 20px "Trebuchet MS";
+  color: white;
+  text-align: center;
+  background-color: SlateBlue;
+  padding: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+h3 {
+  font: 30px "Trebuchet MS";
+  color: SlateBlue;
+  text-align: left;
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+p {
+  font: 20px "Trebuchet MS";
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+
+#flashcontent {
+  width: 100%;
+}
